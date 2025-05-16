@@ -9,15 +9,14 @@ PLEASE CITE:
 2. Strawson, I., Faïn, X., Bauska, T.K., Muschitiello, F., Vladimirova, D.O, Tetzner, D.R., Humby, J., Thomas, E.R., Liu, P., Zhang, B., Grilli, R., Rhodes, R.H., Historical Southern Hemisphere biomass burning variability inferred from ice core carbon monoxide records, Proc. Natl. Acad. Sci. U.S.A. 121 (33) e2402868121, https://doi.org/10.1073/pnas.2402868121, 2024.
 
 **What's in this Repository?**
-
-data : the folder contains 1. (input) ice core d18O data from GRIP on the GICC05 timescale; 2. (target) a stack of 14 U-Th-dated speleothem d18O records from Southeast Asia using a Monte Carlo Principal Component                   Method; 3. the GICC05 maximum counting error; 4. GICC05–Intcal match points from cosmogenic wiggle matching.
-BSYNC–LCE.R : is the main BSYNC script that will run the synchronization.
-load_data.R : load the data sets for synchronization (input, target, and other chronological information).
-functions.R : is a set of functions used by BSYNC–LCE.R. 
-PPL_functions.R : prior, proposal, and likelihood functions for the MCMC model used by BSYNC–LCE.R.
-gicc05_prep.R : prepare the GICC05 counting error priors used by BSYNC–LCE.R. 
-mcmc_setup.R : creates the Bayesian setup for the MCMC simulation using the library *BayesianTools*.
-posterior.R : extracts the MCMC results and estimates the posterior distributions of the model parameters.
-README.md : a brief description of BSYNC-LCE.
-LICENCE : is the BSYNC–LCE licence file.
+- data : the folder contains 1. (input) ice core d18O data from GRIP on the GICC05 timescale; 2. (target) a stack of 14 U-Th-dated speleothem d18O records from Southeast Asia using a Monte Carlo Principal Component                   Method; 3. the GICC05 maximum counting error; 4. GICC05–Intcal match points from cosmogenic wiggle matching.
+- BSYNC–LCE.R : is the main BSYNC script that will run the synchronization.
+- load_data.R : load the data sets for synchronization (input, target, and other chronological information).
+- functions.R : is a set of functions used by BSYNC–LCE.R. 
+- PPL_functions.R : prior, proposal, and likelihood functions for the MCMC model used by BSYNC–LCE.R.
+- gicc05_prep.R : prepare the GICC05 counting error priors used by BSYNC–LCE.R. 
+- mcmc_setup.R : creates the Bayesian setup for the MCMC simulation using the library *BayesianTools*.
+- posterior.R : extracts the MCMC results and estimates the posterior distributions of the model parameters.
+- README.md : a brief description of BSYNC-LCE.
+- LICENCE : is the BSYNC–LCE licence file.
 
