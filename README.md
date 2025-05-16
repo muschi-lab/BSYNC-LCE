@@ -5,4 +5,4 @@ BSYNC-LCE is a specialized implementation of BSYNC (Aquino-Lopez & Muschitiello,
 
 PLEASE CITE: 
 1. Muschitiello, F. and Aquino-Lopez, M. A.: Continuous synchronization of the Greenland ice-core and U–Th timescales using probabilistic inversion, Clim. Past, 20, 1415–1435, https://doi.org/10.5194/cp-20-1415-2024, 2024.
-2. Strawson, I., Faïn, X., Bauska, T.K., Muschitiello, F., Vladimirova, D.O, Tetzner, D.R., Humby, J., Thomas, E.R., Liu, P., Zhang, B., Grilli, R., Rhodes, R.H., Historical Southern Hemisphere biomass burning variability inferred from ice core carbon monoxide records, Proc. Natl. Acad. Sci. U.S.A. 121 (33) e2402868121, https://doi.org/10.1073/pnas.2402868121 (2024).
+2. Strawson, I., Faïn, X., Bauska, T.K., Muschitiello, F., Vladimirova, D.O, Tetzner, D.R., Humby, J., Thomas, E.R., Liu, P., Zhang, B., Grilli, R., Rhodes, R.H., Historical Southern Hemisphere biomass burning variability inferred from ice core carbon monoxide records, Proc. Natl. Acad. Sci. U.S.A. 121 (33) e2402868121, https://doi.org/10.1073/pnas.2402868121, 2024.
